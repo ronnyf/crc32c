@@ -1,8 +1,8 @@
 # Editors.
-*.sw*
 .DS_Store
-/.cache
 /.vscode
+xcuserdata/
+Package.resolved
 
 # Build directory.
 build/
